@@ -40,3 +40,7 @@
 .user-component__title--not-bold {
     font-weight: 200;
 }
+
+.user-component__column:last-child {
+    color: rgba(0, 0, 0, 0.5);
+}
