@@ -10,3 +10,11 @@
     font-weight: 600;
     
 }
+
+.badge2 {
+    /* display: flex; */
+    width: 7px;
+    height: 7px;
+    background-color: tomato;
+    border-radius: 50%;
+}
