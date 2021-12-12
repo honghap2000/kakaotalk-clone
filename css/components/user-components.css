@@ -22,7 +22,6 @@
 }
 
 .user-component__subtitle {
-    margin-top: 8px;
     font-size: 17px;
     color: rgba(0, 0, 0, 0.5);
 }
@@ -52,4 +51,21 @@
 .user-component__time {
     display: block;
     margin-bottom: 10px;
+}
+
+.user-component__sub-area {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.user-component__exclamation {
+    margin-left: 5px;
+    width: 16px;
+    border: 2px solid tomato;
+    color: tomato;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bold;
 }
